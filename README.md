@@ -1,93 +1,12 @@
-| Build | Stable | Weekly Preview | Contribute | Support Server |
-|-------|----------|---------|------------|---------|
-| [![CI](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml/badge.svg)](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml) | [![stable release](https://img.shields.io/github/release/tachiyomiorg/tachiyomi.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi/releases) | [![latest preview build](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi-preview.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi-preview/releases) | [![Translation status](https://hosted.weblate.org/widgets/tachiyomi/-/svg-badge.svg)](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget) | [![Discord](https://img.shields.io/discord/349436576037732353.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/tachiyomi) |
-
-# ![app icon](./.github/readme-images/app-icon.png)Tachiyomi
-Tachiyomi is a free and open source manga reader for Android 6.0 and above.
-
-## Features
-
-Features include:
-* Online reading from a variety of sources
-* Local reading of downloaded content
-* A configurable reader with multiple viewers, reading directions and other settings.
-* Tracker support: [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/), [MangaUpdates](https://mangaupdates.com), [Shikimori](https://shikimori.one), and [Bangumi](https://bgm.tv/) support
-* Categories to organize your library
-* Light and dark themes
-* Schedule updating your library for new chapters
-* Create backups locally to read offline or to your desired cloud service
-
-## Download
-Get the app from our [releases page](https://github.com/tachiyomiorg/tachiyomi/releases).
-
-If you want to try new features before they get to the stable release, you can download the preview version [here](https://github.com/tachiyomiorg/tachiyomi-preview/releases).
-
-## Issues, Feature Requests and Contributing
-
-Please make sure to read the full guidelines. Your issue may be closed without warning if you do not.
-
-<details><summary>Issues</summary>
-
-1. **Before reporting a new issue, take a look at the [FAQ](https://tachiyomi.org/docs/faq/general), the [changelog](https://tachiyomi.org/changelogs/) and the already opened [issues](https://github.com/tachiyomiorg/tachiyomi/issues).**
-2. If you are unsure, ask here: [![Discord](https://img.shields.io/discord/349436576037732353.svg)](https://discord.gg/tachiyomi)
-
-</details>
-
-<details><summary>Bugs</summary>
-
-* Include version (More → About → Version)
- * If not latest, try updating, it may have already been solved
- * Preview version is equal to the number of commits as seen on the main page
-* Include steps to reproduce (if not obvious from description)
-* Include screenshot (if needed)
-* If it could be device-dependent, try reproducing on another device (if possible)
-* Don't group unrelated requests into one issue
-
-DO: https://github.com/tachiyomiorg/tachiyomi/issues/24 https://github.com/tachiyomiorg/tachiyomi/issues/71
-
-DON'T: https://github.com/tachiyomiorg/tachiyomi/issues/75
-
-</details>
-
-<details><summary>Feature Requests</summary>
-
-* Write a detailed issue, explaining what it should do or how. Avoid writing just "like X app does"
-* Include screenshot (if needed)
-
-Source requests are not accepted.
-</details>
-
-<details><summary>Contributing</summary>
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
-</details>
-
-<details><summary>Code of Conduct</summary>
-
-See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
-</details>
-
-## FAQ
-
-[See our website.](https://tachiyomi.org/)
-You can also reach out to us on [Discord](https://discord.gg/tachiyomi).
-
-## License
-
-    Copyright 2015 Javier Tomás
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-## Disclaimer
-
-The developer of this application does not have any affiliation with the content providers available.
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/ee1f9257-e2af-4b04-9b5b-125444a24bda)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/98bbec12-f8d9-4251-b6c1-9106f33f3815)
+# EAT SHIT KAKAO
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/180d0992-54e6-4a34-a5d1-78871ee82797)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/773f3ec7-7247-4b85-a6fc-4bbf8c82593d)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/0a0a07ea-53be-4c03-8c0d-4df517811119)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/0b54a122-9e08-4498-8be9-2f9a6b3fbbc4)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/44c872bd-939c-4424-abeb-7c3c1bf0477a)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/74771f3c-7b7f-43c8-a612-86d01b57e993)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/bce86adf-8c38-44f4-adec-0ddcaa0b98b6)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/28918dee-4c46-48e9-8ef2-1244d94c613b)
+![ezgif-4-559edcac9a](https://github.com/Fatih120/fachiyomi/assets/18276369/13934e2a-ca92-4ac6-a0f7-54ae37215539)
